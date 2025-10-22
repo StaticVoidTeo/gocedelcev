@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.239d179d.css",
-    "main.js": "/static/js/main.a2fcada0.js",
+    "main.css": "/static/css/main.623407b5.css",
+    "main.js": "/static/js/main.17560266.js",
     "static/js/453.4593ea9d.chunk.js": "/static/js/453.4593ea9d.chunk.js",
     "static/media/student-dorms-brutalist-architecture-macedonia-skopje.jpg": "/static/media/student-dorms-brutalist-architecture-macedonia-skopje.06f172399e221e3ff919.jpg",
     "index.html": "/index.html",
-    "main.239d179d.css.map": "/static/css/main.239d179d.css.map",
-    "main.a2fcada0.js.map": "/static/js/main.a2fcada0.js.map",
+    "main.623407b5.css.map": "/static/css/main.623407b5.css.map",
+    "main.17560266.js.map": "/static/js/main.17560266.js.map",
     "453.4593ea9d.chunk.js.map": "/static/js/453.4593ea9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.239d179d.css",
-    "static/js/main.a2fcada0.js"
+    "static/css/main.623407b5.css",
+    "static/js/main.17560266.js"
   ]
 }
